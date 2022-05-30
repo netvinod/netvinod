@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vinod Seshadri
+- 👀 I’m interested in Machine learning, data engineering , NLP and MLOps
+- 🌱 I’m currently learning Transformers
+- 💞️ I’m looking to collaborate on NLP and MLOps open source projects
+- 📫 How to reach me via Twitter @vinodseshadri
